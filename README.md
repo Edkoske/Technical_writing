@@ -95,14 +95,4 @@ This project is licensed under the MIT License. See `LICENSE` file for details.
 
 ---
 
-### 🎯 QUICK TIPS
-- Start with the **big picture**, then go into details.
-- Use **headings** to make it scannable.
-- Add **screenshots** or demo links if possible.
-- Always keep it **up to date**.
 
----
-
-Would you like a ready-to-use template or help writing a README for your current project?
-```
-# Technical_writing
